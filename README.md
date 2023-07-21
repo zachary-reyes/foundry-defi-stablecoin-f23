@@ -1,3 +1,5 @@
+REFERENCE: https://github.com/Cyfrin/foundry-defi-stablecoin-f23
+
 1. (Relative Stability) Anchored or Pegged -> $1.00
     1. Chainlink Price Feed
     2. Set a function to exchange ETH & BTC -> $$$
@@ -23,3 +25,5 @@
 
 
 GANG GANG STABLECOIN MAXIS
+
+REFERENCE: 
